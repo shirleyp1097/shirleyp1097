@@ -1,9 +1,9 @@
-Hello, my name is Paris Shirley. I'm a college graduate looking to start a career in Software or Web Development! I'll be graduating from Codeup's Full-Stack Web-Development program in January.
+Hello, my name is Paris Shirley. I'm a software developer from San Antonio, Texas. I graduated from the University of Notre Dame.
 
 
-🔭 I’m currently working on my final capstone project called Intellifridge. It's a web application that tracks the expiration dates for food in a user's fridge.
+🔭 I’m currently working on building a card game web application.
 
-🌱 I’m currently learning how to implement APIs in a Spring Boot application  
+🌱 I’m currently learning how to implement APIs in a Spring Boot application.
 
 👯 I’m looking to collaborate on anything that will help me become a better software developer.
 
